@@ -118,6 +118,11 @@ Nguyên tắc xử lý tên cột dữ liệu tiếng Nhật
 1. Tiền xử lý: chuyển đối tên cột tiếng Nhật về tên tiếng Anh chuẩn.
 2. Phân tích, học, dự đoán dữ liệu: chỉ sử dụng tên cột tiếng Anh chuẩn.
 3. Xuất báo cáo: chuyển tên cột về tên tiếng Nhật chuẩn.
+
+Links:
+- [Tên biến tiếng Nhật trong phân tích dữ liệu và học máy](t.ly/AgAv) 
+- [Julia sample code](https://github.com/vochicong/dataframe-i18n)
+- Pandas/Python sample code: TBA
 """
 
 # ╔═╡ 51c51dc1-a946-4217-81e0-8730d40b7557
@@ -489,7 +494,7 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 # ╟─4c680cf3-d884-49e5-8b36-650f7117a6ea
 # ╟─c41c3013-4a58-4fc8-8d11-861fa7136714
 # ╟─5681fa85-15c9-4463-be8e-e223bbd4df77
-# ╟─75c185d1-c284-4443-b6bf-551079ce1a27
+# ╠═75c185d1-c284-4443-b6bf-551079ce1a27
 # ╟─99dc35a3-cf58-443e-ac17-7d378432a07e
 # ╟─534af33b-7104-4d29-8e02-5cd6d866265a
 # ╟─0df4917c-28f2-457f-bc41-80fac9ca33ba
