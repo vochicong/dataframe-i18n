@@ -59,7 +59,7 @@ giả sử chúng ta có một bảng dữ liệu cá nhân
 df_in = DataFrame(名 = ["孫 悟空", "猪 八戒", "沙 悟浄", "玄奘 三蔵"], 歳 = [22, 19, 18, 30])
 
 # ╔═╡ 534af33b-7104-4d29-8e02-5cd6d866265a
-md"""Chúng ta háo hức muốn bắt tay vào phân tích dữ liệu ngay. Rất nhanh chóng, nhiều đoạn code viết 名 và 歳 sinh sôi nảy nở. Tôi đã đọc nhiều Jupyter notebooks do người Nhật hoặc người Việt viết mà trong đó có rất nhiều tên biến (hay cột dữ liệu, features, index) là tiếng Nhật.
+md"""Chúng ta háo hức muốn bắt tay vào EDA phân tích dữ liệu ngay. Rất nhanh chóng, nhiều đoạn code viết 名 và 歳 sinh sôi nảy nở. Tôi đã đọc nhiều Jupyter notebooks do người Nhật hoặc người Việt viết mà trong đó có rất nhiều tên biến (hay cột dữ liệu, features, index) là tiếng Nhật.
 
 Những vấn đề phát sinh:
 
@@ -496,7 +496,7 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 # ╟─5681fa85-15c9-4463-be8e-e223bbd4df77
 # ╠═75c185d1-c284-4443-b6bf-551079ce1a27
 # ╟─99dc35a3-cf58-443e-ac17-7d378432a07e
-# ╟─534af33b-7104-4d29-8e02-5cd6d866265a
+# ╠═534af33b-7104-4d29-8e02-5cd6d866265a
 # ╟─0df4917c-28f2-457f-bc41-80fac9ca33ba
 # ╟─ccd45783-6a7f-4824-b83f-599de8a8a85a
 # ╟─8d7fa112-2add-40dd-9c0e-1bd2e43e9d15
@@ -510,7 +510,7 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 # ╟─1de46b8e-0343-4d76-9d21-c80e00146255
 # ╟─a1bb122f-4add-4e49-b60e-60ad110d86c0
 # ╟─f1c2afca-7978-442b-9c86-a2c6f895b878
-# ╟─6168b981-e2c2-45d1-8055-b8bb674155d1
+# ╠═6168b981-e2c2-45d1-8055-b8bb674155d1
 # ╟─9b985a9c-683f-4371-a02e-7b4ff12f3a95
 # ╟─4fa0f050-4b8b-11ec-24d5-1f995fc27946
 # ╟─51c51dc1-a946-4217-81e0-8730d40b7557
